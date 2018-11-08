@@ -32,4 +32,4 @@
 # UEFI_Platform_Security_pres
 Introduction to Platform Firmware Security with UEFI
 
-To see the Slides goto https://gitpitch.com/Laurie0131/UEFI_Platform_Security_pres/master#/
+To see the Slides goto https://gitpitch.com/tianocore-training/UEFI_Platform_Security_pres/master#/
