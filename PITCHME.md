@@ -10,7 +10,7 @@
 Note:
   PITCHME.md for UEFI / EDK II Training  UEFI Platform Security Pres
 
-  Copyright (c) 2018, Intel Corporation. All rights reserved.<BR>
+  Copyright (c) 2019, Intel Corporation. All rights reserved.<BR>
 
   Redistribution and use in source (original document form) and 'compiled'
   forms (converted to PDF, epub, HTML and other formats) with or without
@@ -52,13 +52,13 @@ Note:
  <li>@fa[certificate gp-bullet-ltgreen]<span style="font-size:0.9em">&nbsp;&nbsp;Tools and resources on how to test<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; firmware for security </span></li>
 </ul>
 
----?include=Presentations/Why.md
+---?include=Presentations/Why/PITCHME.md
 
----?include=Presentations/UEFI_Boot_Flow.md
+---?include=Presentations/UEFI_Boot_Flow/PITCHME.md
 
----?include=Presentations/SecurityTechnologies.md
+---?include=Presentations/SecurityTechnologies/PITCHME.md
 
----?include=Presentations/Tools.md
+---?include=Presentations/Tools/PITCHME.md
 
 ---  
 @title[Summary]
@@ -114,7 +114,7 @@ WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWIS
 ARISING IN ANY WAY OUT OF THE USE OF THIS DOCUMENTATION, EVEN IF ADVISED OF THE POSSIBILITY 
 OF SUCH DAMAGE.
 
-Copyright (c) 2018, Intel Corporation. All rights reserved.
+Copyright (c) 2019, Intel Corporation. All rights reserved.
 **/
 
 ```
